@@ -834,9 +834,10 @@ for (var attr in meta) {
   }</style><div id="Banner-template--17528689754331__image_banner" class="banner banner--content-align-center banner--content-align-mobile-center banner--large banner--desktop-transparent scroll-trigger animate--fade-in"><div class="banner__media media scroll-trigger animate--fade-in"><img src="images/Screenshot_2024-03-12_at_10.41.21.png" alt="" srcset="images/Screenshot_2024-03-12_at_10.41.21_1.png 375w, images/Screenshot_2024-03-12_at_10.41.21_2.png 550w, images/Screenshot_2024-03-12_at_10.41.21_3.png 750w, images/Screenshot_2024-03-12_at_10.41.21_4.png 1100w, images/Screenshot_2024-03-12_at_10.41.21_5.png 1500w, images/Screenshot_2024-03-12_at_10.41.21_6.png 1780w, images/Screenshot_2024-03-12_at_10.41.21_7.png 2000w, images/Screenshot_2024-03-12_at_10.41.21_8.png 3000w, images/Screenshot_2024-03-12_at_10.41.21.png 3840w" width="2880" height="1394.0" sizes="100vw" fetchpriority="high">
     </div><div class="banner__content banner__content--bottom-center page-width scroll-trigger animate--slide-in">
     <div class="banner__box content-container content-container--full-width-mobile color-scheme-3 gradient"><h2 class="banner__heading inline-richtext h2">
-              優先登記參觀餘額尚餘：33名
+               
             </h2><div class="banner__buttons"><a href="https://api.whatsapp.com/send/?phone=85296609069&text=%E6%88%91%E6%83%B3%E6%9F%A5%E8%A9%A2Blue%20Coast&type=phone_number&app_absent=0" target="_blank"  class="button button--primary">立即登記</a></div></div>
-  </div>
+            優先登記參觀
+          </div>
 </div>
 
 
