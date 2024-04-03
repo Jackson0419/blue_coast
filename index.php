@@ -8,7 +8,16 @@
  – Blue Coast</title>
 
     
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16499473101">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'AW-16499473101');
+</script>
     
 
 <meta property="og:site_name" content="Blue Coast">
