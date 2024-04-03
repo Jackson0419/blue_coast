@@ -3,7 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="https://www.bluecoasthk.org/"><link rel="icon" type="image/png" href="images/IMG_9125.jpg"><link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin=""><title>
+  <title>
       BlueCoast
  – Blue Coast</title>
 
@@ -21,7 +21,7 @@
     
 
 <meta property="og:site_name" content="Blue Coast">
-<meta property="og:url" content="https://www.bluecoasthk.org/">
+ 
 <meta property="og:title" content="BlueCoast">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Blue Coast"><meta property="og:image" content="images/IMG_9125_027af2a9-ada0-49aa-80b3-a4883e97dba8.jpg">
@@ -39,7 +39,7 @@
 <meta id="in-context-paypal-metadata" data-shop-id="69220696283" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="HKD">
 <script async="async" src="js/preloads_1.js"></script>
 <script async="async" src="js/preloads.js" crossorigin="anonymous"></script>
-<script id="shopify-features" type="application/json">{"accessToken":"6b5242a4c4d22b06931b423786a33d58","betas":["rich-media-storefront-analytics"],"domain":"www.bluecoasthk.org","predictiveSearch":true,"shopId":69220696283,"smart_payment_buttons_url":"https:\/\/www.bluecoasthk.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.bluecoasthk.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","flg4ff40b22":false}</script>
+ 
 <script>var Shopify = Shopify || {};
 Shopify.shop = "5f25d9-c9.myshopify.com";
 Shopify.locale = "en";
@@ -48,14 +48,13 @@ Shopify.country = "HK";
 Shopify.theme = {"name":"Dawn","id":140527698139,"theme_store_id":887,"role":"main"};
 Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};
-Shopify.cdnHost = "www.bluecoasthk.org/cdn";
+ 
 Shopify.routes = Shopify.routes || {};
 Shopify.routes.root = "/";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script id="shop-js-features" type="application/json">{"compact":""}</script>
-<script id="__st">var __st={"a":69220696283,"offset":28800,"reqid":"8ec09e91-0bc7-49cf-bdb6-8d530c877dfa-1711607402","pageurl":"www.bluecoasthk.org\/?gad_source=1\u0026gclid=CjwKCAjwh4-wBhB3EiwAeJsppAFMEkdQjsw7xS8Vl7-vQGaEaknB-I7l3UEMblLcJxrteLpArjHmxBoCnZoQAvD_BwE","u":"19e7322a67c0","p":"home"};</script>
-<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+ 
 <script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
 <script data-source-attribution="shopify.loadfeatures" defer="defer" src="js/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
 <script data-source-attribution="shopify.dynamic-checkout" defer="defer" src="js/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
@@ -76,14 +75,7 @@ Shopify.routes.root = "/";</script>
 
 
     <style data-shopify="">
-      @font-face {
-  font-family: Assistant;
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  src: url("fonts/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2") format("woff2"),
-       url("fonts/assistant_n4.a2d012304becc2a26f1ded1acc136fcab85c9afd.woff") format("woff");
-}
+  
 
       @font-face {
   font-family: Assistant;
@@ -385,17 +377,17 @@ Shopify.routes.root = "/";</script>
     </style>
 
     <link href="css/base.css" rel="stylesheet" type="text/css" media="all">
-<link rel="preload" as="font" href="//www.bluecoasthk.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=NWYyNWQ5LWM5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&amp;h2=Ymx1ZWNvYXN0aGsub3Jn&amp;hmac=bddc55c7e4e16b0c641b6f0ac120a29f553e4a991a64e39e161c0fd2ee13d564" type="font/woff2" crossorigin=""><link rel="preload" as="font" href="//www.bluecoasthk.org/cdn/fonts/assistant/assistant_n4.bcd3d09dcb631dec5544b8fb7b154ff234a44630.woff2?h1=NWYyNWQ5LWM5LmFjY291bnQubXlzaG9waWZ5LmNvbQ&amp;h2=Ymx1ZWNvYXN0aGsub3Jn&amp;hmac=bddc55c7e4e16b0c641b6f0ac120a29f553e4a991a64e39e161c0fd2ee13d564" type="font/woff2" crossorigin=""><script>
+ <script>
       document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
       if (Shopify.designMode) {
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
-  <script src="js/ChatBubble.js" type="text/javascript" defer="defer"></script>
+ 
 <link href="css/ChatBubble.css" rel="stylesheet" type="text/css" media="all">
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 69220696283,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-<script id="web-pixels-manager-setup">(function e(e,n,a,t,r){var o="function"==typeof BigInt&&-1!==BigInt.toString().indexOf("[native code]")?"modern":"legacy";window.Shopify=window.Shopify||{};var i=window.Shopify;i.analytics=i.analytics||{};var s=i.analytics;s.replayQueue=[],s.publish=function(e,n,a){return s.replayQueue.push([e,n,a]),!0};try{self.performance.mark("wpm:start")}catch(e){}var l=[a,"/wpm","/b",r,o.substring(0,1),".js"].join("");!function(e){var n=e.src,a=e.async,t=void 0===a||a,r=e.onload,o=e.onerror,i=document.createElement("script"),s=document.head,l=document.body;i.async=t,i.src=n,r&&i.addEventListener("load",r),o&&i.addEventListener("error",o),s?s.appendChild(i):l?l.appendChild(i):console.error("Did not find a head or body element to append the script")}({src:l,async:!0,onload:function(){var a=window.webPixelsManager.init(e);n(a);var t=window.Shopify.analytics;t.replayQueue.forEach((function(e){var n=e[0],t=e[1],r=e[2];a.publishCustomEvent(n,t,r)})),t.replayQueue=[],t.publish=a.publishCustomEvent,t.visitor=a.visitor},onerror:function(){var n=e.storefrontBaseUrl.replace(/\/$/,""),a="".concat(n,"/.well-known/shopify/monorail/unstable/produce_batch"),r=JSON.stringify({metadata:{event_sent_at_ms:(new Date).getTime()},events:[{schema_id:"web_pixels_manager_load/2.0",payload:{version:t||"latest",page_url:self.location.href,status:"failed",error_msg:"".concat(l," has failed to load")},metadata:{event_created_at_ms:(new Date).getTime()}}]});try{if(self.navigator.sendBeacon.bind(self.navigator)(a,r))return!0}catch(e){}var o=new XMLHttpRequest;try{return o.open("POST",a,!0),o.setRequestHeader("Content-Type","text/plain"),o.send(r),!0}catch(e){console&&console.warn&&console.warn("[Web Pixels Manager] Got an unhandled error while logging a load error.")}return!1}})})({shopId: 69220696283,storefrontBaseUrl: "https://www.bluecoasthk.org",cdnBaseUrl: "https://www.bluecoasthk.org/cdn",surface: "storefront-renderer",enabledBetaFlags: [],webPixelsConfigList: [{"id":"shopify-app-pixel","configuration":"{}","eventPayloadVersion":"v1","runtimeContext":"STRICT","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"APP","purposes":["ANALYTICS"]},{"id":"shopify-custom-pixel","eventPayloadVersion":"v1","runtimeContext":"LAX","scriptVersion":"0575","apiClientId":"shopify-pixel","type":"CUSTOM","purposes":["ANALYTICS"]}],initData: {"cart":null,"checkout":null,"customer":null,"productVariants":[]},},function pageEvents(webPixelsManagerAPI) {webPixelsManagerAPI.publish("page_viewed");},"https://www.bluecoasthk.org/cdn","0.0.463","af064dacw059a0243p359f28e4m038b1d93",);</script><script async="" src="js/baf064dacw059a0243p359f28e4m038b1d93m.js"></script>  <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+   <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'HKD';
 var meta = {"page":{"pageType":"home"}};
@@ -450,9 +442,7 @@ for (var attr in meta) {
       'trackLink'
     ];
    
-    trekkie.load(
-      {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":69220696283,"isMerchantRequest":null,"themeId":140527698139,"themeCityHash":"175465020538594046","contentLanguage":"en","currency":"HKD"},"isServerSideCookieWritingEnabled":true,"monorailRegion":"shop_domain","enabledBetaFlags":["bbcf04e6"]},"Session Attribution":{},"S2S":{"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
-    );
+ 
 
     var loaded = false;
     trekkie.ready(function() {
@@ -480,8 +470,7 @@ for (var attr in meta) {
 
         var eventsListenerScript = document.createElement('script');
         eventsListenerScript.async = true;
-        eventsListenerScript.src = "//www.bluecoasthk.org/cdn/shopifycloud/shopify/assets/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js";
-        document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+         document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
 
 })();</script><script async="" src="js/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js"></script>
 <script class="boomerang">
@@ -499,8 +488,7 @@ for (var attr in meta) {
   window.BOOMR.shopId = 69220696283;
   window.BOOMR.themeId = 140527698139;
   window.BOOMR.renderRegion = "gcp-europe-west1";
-  window.BOOMR.url =
-    "https://www.bluecoasthk.org/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+ 
   var where = document.currentScript || document.getElementsByTagName("script")[0];
   var parentNode = where.parentNode;
   var promoted = false;
@@ -628,7 +616,7 @@ for (var attr in meta) {
       }
     });
   }
-})();</script><link href="https://www.bluecoasthk.org/cdn/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js" rel="preload" as="script">
+})(); 
 </head><body class="gradient"><iframe src="about:blank" title="" role="presentation" loading="eager" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe>
 
   
@@ -640,12 +628,7 @@ for (var attr in meta) {
 <link rel="stylesheet" href="css/component-menu-drawer.css" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="css/component-cart-notification.css" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="css/component-cart-items.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="css/component-mega-menu.css" media="print" onload="this.media='all'">
-  <noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-mega-menu.css?v=10110889665867715061710144533" rel="stylesheet" type="text/css" media="all" /></noscript><noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851710144534" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-menu-drawer.css?v=85170387104997277661710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-cart-items.css?v=136978088507021421401710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
-
+ 
 <style>
   header-drawer {
     justify-self: start;
@@ -798,41 +781,8 @@ for (var attr in meta) {
   </header>
 </sticky-header>
 
-<script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "Blue Coast",
-    
-      "logo": "https:\/\/www.bluecoasthk.org\/cdn\/shop\/files\/removebg-preview_1.png?v=1710216584\u0026width=500",
-    
-    "sameAs": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "url": "https:\/\/www.bluecoasthk.org"
-  }
-</script>
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "WebSite",
-      "name": "Blue Coast",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https:\/\/www.bluecoasthk.org\/search?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      },
-      "url": "https:\/\/www.bluecoasthk.org"
-    }
-  </script>
+ 
+  
 </div>
 <!-- END sections: header-group -->
 
@@ -1169,7 +1119,7 @@ for (var attr in meta) {
     </ul>
 
     <script>
-      window.shopUrl = 'https://www.bluecoasthk.org';
+      
       window.routes = {
         cart_add_url: '/cart/add',
         cart_change_url: '/cart/change',
