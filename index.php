@@ -3,25 +3,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-  <title>
+    <title>
       BlueCoast
  – Blue Coast</title>
 
     
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16499473101">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'AW-16499473101');
-</script>
     
 
 <meta property="og:site_name" content="Blue Coast">
- 
+<meta property="og:url" content="https://www.bluecoasthk.org/">
 <meta property="og:title" content="BlueCoast">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Blue Coast"><meta property="og:image" content="images/IMG_9125_027af2a9-ada0-49aa-80b3-a4883e97dba8.jpg">
@@ -32,32 +23,20 @@
 <meta name="twitter:description" content="Blue Coast">
 
 
-    <script type="text/javascript" async="" src="js/trekkie.storefront.edae546725afe9e67372986831ce229a1cb75365.min.js"></script><script type="text/javascript" async="" src="js/trekkie.storefront.edae546725afe9e67372986831ce229a1cb75365.min.js"></script><script src="js/constants.js" defer="defer"></script>
-    <script src="js/pubsub.js" defer="defer"></script>
-    <script src="js/global.js" defer="defer"></script><script src="js/animations.js" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/69220696283/digital_wallets/dialog">
-<meta name="shopify-checkout-api-token" content="6b5242a4c4d22b06931b423786a33d58">
+     <script src="js/pubsub.js" defer="defer"></script>
+    <script src="js/global.js" defer="defer"></script><script src="js/animations.js" defer="defer"></script> <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/69220696283/digital_wallets/dialog">
+ 
 <meta id="in-context-paypal-metadata" data-shop-id="69220696283" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="HKD">
 <script async="async" src="js/preloads_1.js"></script>
-<script async="async" src="js/preloads.js" crossorigin="anonymous"></script>
  
-<script>var Shopify = Shopify || {};
-Shopify.shop = "5f25d9-c9.myshopify.com";
-Shopify.locale = "en";
-Shopify.currency = {"active":"HKD","rate":"1.0"};
-Shopify.country = "HK";
-Shopify.theme = {"name":"Dawn","id":140527698139,"theme_store_id":887,"role":"main"};
-Shopify.theme.handle = "null";
-Shopify.theme.style = {"id":null,"handle":null};
- 
-Shopify.routes = Shopify.routes || {};
-Shopify.routes.root = "/";</script>
-<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script id="shopify-features" type="application/json">{"accessToken":"6b5242a4c4d22b06931b423786a33d58","betas":["rich-media-storefront-analytics"],"domain":"www.bluecoasthk.org","predictiveSearch":true,"shopId":69220696283,"smart_payment_buttons_url":"https:\/\/www.bluecoasthk.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/www.bluecoasthk.org\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","flg4ff40b22":false}</script>
+  
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script id="shop-js-features" type="application/json">{"compact":""}</script>
- 
+<script id="__st">var __st={"a":69220696283,"offset":28800,"reqid":"8ec09e91-0bc7-49cf-bdb6-8d530c877dfa-1711607402","pageurl":"www.bluecoasthk.org\/?gad_source=1\u0026gclid=CjwKCAjwh4-wBhB3EiwAeJsppAFMEkdQjsw7xS8Vl7-vQGaEaknB-I7l3UEMblLcJxrteLpArjHmxBoCnZoQAvD_BwE","u":"19e7322a67c0","p":"home"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LeHG2ApAAAAAO4rPaDW-qVpPKPOBfjbCpzJB9ey"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
-<script data-source-attribution="shopify.loadfeatures" defer="defer" src="js/load_feature-9f951eb7d8d53973c719de211f807d63af81c644e5b9a6ae72661ac408d472f6.js" crossorigin="anonymous"></script>
-<script data-source-attribution="shopify.dynamic-checkout" defer="defer" src="js/features-1c0b396bd4d054b94abae1eb6a1bd6ba47beb35525c57a217c77a862ff06d83f.js" crossorigin="anonymous"></script>
+ 
 <script id="sections-script" data-sections="header" defer="defer" src="js/scripts.js"></script>
 
 <style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
@@ -71,12 +50,10 @@ Shopify.routes.root = "/";</script>
     min-height: 120px;
   }
 }
-</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-
+</style> 
 
     <style data-shopify="">
-  
-
+     
       @font-face {
   font-family: Assistant;
   font-weight: 700;
@@ -386,8 +363,8 @@ Shopify.routes.root = "/";</script>
  
 <link href="css/ChatBubble.css" rel="stylesheet" type="text/css" media="all">
 <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 69220696283,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
-   <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+ 
+    <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
 window.ShopifyAnalytics.meta.currency = 'HKD';
 var meta = {"page":{"pageType":"home"}};
@@ -442,181 +419,15 @@ for (var attr in meta) {
       'trackLink'
     ];
    
- 
+    
 
     var loaded = false;
-    trekkie.ready(function() {
-      if (loaded) return;
-      loaded = true;
-
-      window.ShopifyAnalytics.lib = window.trekkie;
-
-  
-      var originalDocumentWrite = document.write;
-      document.write = customDocumentWrite;
-      try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
-      document.write = originalDocumentWrite;
-
-      window.ShopifyAnalytics.lib.page(null,{"pageType":"home"});
-
-      var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-      var token = match? match[1]: undefined;
-      if (!hasLoggedConversion(token)) {
-        setCookieIfConversion(token);
-        
-      }
-    });
+    
 
 
-        var eventsListenerScript = document.createElement('script');
-        eventsListenerScript.async = true;
-         document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-
-})();</script><script async="" src="js/shop_events_listener-61fa9e0a912c675e178777d2b27f6cbd482f8912a6b0aa31fa3515985a8cd626.js"></script>
-<script class="boomerang">
-(function () {
-  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
-    return;
-  }
-  window.BOOMR = window.BOOMR || {};
-  window.BOOMR.snippetStart = new Date().getTime();
-  window.BOOMR.snippetExecuted = true;
-  window.BOOMR.snippetVersion = 12;
-  window.BOOMR.application = "storefront-renderer";
-  window.BOOMR.themeName = "Dawn";
-  window.BOOMR.themeVersion = "13.0.1";
-  window.BOOMR.shopId = 69220696283;
-  window.BOOMR.themeId = 140527698139;
-  window.BOOMR.renderRegion = "gcp-europe-west1";
+       
+})();</script> 
  
-  var where = document.currentScript || document.getElementsByTagName("script")[0];
-  var parentNode = where.parentNode;
-  var promoted = false;
-  var LOADER_TIMEOUT = 3000;
-  function promote() {
-    if (promoted) {
-      return;
-    }
-    var script = document.createElement("script");
-    script.id = "boomr-scr-as";
-    script.src = window.BOOMR.url;
-    script.async = true;
-    parentNode.appendChild(script);
-    promoted = true;
-  }
-  function iframeLoader(wasFallback) {
-    promoted = true;
-    var dom, bootstrap, iframe, iframeStyle;
-    var doc = document;
-    var win = window;
-    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
-    bootstrap = function(parent, scriptId) {
-      var script = doc.createElement("script");
-      script.id = scriptId || "boomr-if-as";
-      script.src = window.BOOMR.url;
-      BOOMR_lstart = new Date().getTime();
-      parent = parent || doc.body;
-      parent.appendChild(script);
-    };
-    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
-      window.BOOMR.snippetMethod = "s";
-      bootstrap(parentNode, "boomr-async");
-      return;
-    }
-    iframe = document.createElement("IFRAME");
-    iframe.src = "about:blank";
-    iframe.title = "";
-    iframe.role = "presentation";
-    iframe.loading = "eager";
-    iframeStyle = (iframe.frameElement || iframe).style;
-    iframeStyle.width = 0;
-    iframeStyle.height = 0;
-    iframeStyle.border = 0;
-    iframeStyle.display = "none";
-    parentNode.appendChild(iframe);
-    try {
-      win = iframe.contentWindow;
-      doc = win.document.open();
-    } catch (e) {
-      dom = document.domain;
-      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
-      win = iframe.contentWindow;
-      doc = win.document.open();
-    }
-    if (dom) {
-      doc._boomrl = function() {
-        this.domain = dom;
-        bootstrap();
-      };
-      doc.write("<body onload='document._boomrl();'>");
-    } else {
-      win._boomrl = function() {
-        bootstrap();
-      };
-      if (win.addEventListener) {
-        win.addEventListener("load", win._boomrl, false);
-      } else if (win.attachEvent) {
-        win.attachEvent("onload", win._boomrl);
-      }
-    }
-    doc.close();
-  }
-  var link = document.createElement("link");
-  if (link.relList &&
-    typeof link.relList.supports === "function" &&
-    link.relList.supports("preload") &&
-    ("as" in link)) {
-    window.BOOMR.snippetMethod = "p";
-    link.href = window.BOOMR.url;
-    link.rel = "preload";
-    link.as = "script";
-    link.addEventListener("load", promote);
-    link.addEventListener("error", function() {
-      iframeLoader(true);
-    });
-    setTimeout(function() {
-      if (!promoted) {
-        iframeLoader(true);
-      }
-    }, LOADER_TIMEOUT);
-    BOOMR_lstart = new Date().getTime();
-    parentNode.appendChild(link);
-  } else {
-    iframeLoader(false);
-  }
-  function boomerangSaveLoadTime(e) {
-    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
-  }
-  if (window.addEventListener) {
-    window.addEventListener("load", boomerangSaveLoadTime, false);
-  } else if (window.attachEvent) {
-    window.attachEvent("onload", boomerangSaveLoadTime);
-  }
-  if (document.addEventListener) {
-    document.addEventListener("onBoomerangLoaded", function(e) {
-      e.detail.BOOMR.init({
-        ResourceTiming: {
-          enabled: true,
-          trackedResourceTypes: ["script", "img", "css"]
-        },
-      });
-      e.detail.BOOMR.t_end = new Date().getTime();
-    });
-  } else if (document.attachEvent) {
-    document.attachEvent("onpropertychange", function(e) {
-      if (!e) e=event;
-      if (e.propertyName === "onBoomerangLoaded") {
-        e.detail.BOOMR.init({
-          ResourceTiming: {
-            enabled: true,
-            trackedResourceTypes: ["script", "img", "css"]
-          },
-        });
-        e.detail.BOOMR.t_end = new Date().getTime();
-      }
-    });
-  }
-})(); 
 </head><body class="gradient"><iframe src="about:blank" title="" role="presentation" loading="eager" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe>
 
   
@@ -628,7 +439,12 @@ for (var attr in meta) {
 <link rel="stylesheet" href="css/component-menu-drawer.css" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="css/component-cart-notification.css" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="css/component-cart-items.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="css/component-mega-menu.css" media="print" onload="this.media='all'">
- 
+  <noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-mega-menu.css?v=10110889665867715061710144533" rel="stylesheet" type="text/css" media="all" /></noscript><noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-search.css?v=165164710990765432851710144534" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-menu-drawer.css?v=85170387104997277661710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-cart-notification.css?v=54116361853792938221710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="//www.bluecoasthk.org/cdn/shop/t/1/assets/component-cart-items.css?v=136978088507021421401710144533" rel="stylesheet" type="text/css" media="all" /></noscript>
+
 <style>
   header-drawer {
     justify-self: start;
@@ -781,8 +597,41 @@ for (var attr in meta) {
   </header>
 </sticky-header>
 
- 
-  
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Blue Coast",
+    
+      "logo": "https:\/\/www.bluecoasthk.org\/cdn\/shop\/files\/removebg-preview_1.png?v=1710216584\u0026width=500",
+    
+    "sameAs": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "url": "https:\/\/www.bluecoasthk.org"
+  }
+</script>
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "Blue Coast",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https:\/\/www.bluecoasthk.org\/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "url": "https:\/\/www.bluecoasthk.org"
+    }
+  </script>
 </div>
 <!-- END sections: header-group -->
 
@@ -1119,7 +968,7 @@ for (var attr in meta) {
     </ul>
 
     <script>
-      
+      window.shopUrl = 'https://www.bluecoasthk.org';
       window.routes = {
         cart_add_url: '/cart/add',
         cart_change_url: '/cart/change',
